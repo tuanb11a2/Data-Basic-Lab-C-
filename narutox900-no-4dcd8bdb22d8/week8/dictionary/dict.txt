@@ -1,0 +1,4 @@
+name,ten
+dictionary,tu dien
+text,chu
+mobile,dien thoai
